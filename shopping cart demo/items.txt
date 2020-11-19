@@ -1,0 +1,17 @@
+Keyboard,15.00,16,19.00,images\\keyboard.jpg
+computer,259,13,200,images\\computer.jpg
+laptop,15000,8,14500,images\\laptop.jpg
+Printer Ink,15.05,6,16.05,images\\ink.jpg
+Iphone Smartphone,15.06,7,16.06,images\\iphone.jpg
+Optical Mouse,15.07,8,16.07,images\\mouse.jpg
+Radio,15.08,9,16.08,images\\radio.jpg
+Home Stereo,15.09,10,16.09,images\\stereo.jpg
+Flat ScreenTv,15.01,11,16.01,images\\tv.jpg
+Multi Charger,50,8,100,images\\chargermulti.jpg
+dvd player,200,6,350,images\\ink.jpg
+RAM,300,7,800,images\\ram.jpg
+laptop,100,2,80,images\\laptop2.jpg
+Tablet,100,3,80,images\\tabloet.jpg
+X BOX,5000,1,5800,images\\xbox.jpg
+Monitor,1000,60,1080,images\\laptop2.jpg
+wireless charger,800,17,850,images\\wirelesscharger.jpg

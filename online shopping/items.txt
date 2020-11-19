@@ -1,0 +1,9 @@
+Music Stereo,TT001,images/stereo.jpg,1000.00
+Brand new Computer,TT002,images/computer.jpg,1400.00
+Computer Monitor,TT003,images/monitor.jpg,1800.00
+Television,TT004,images/tv.jpg,1500.00
+X-Box,TT005,images/xbox.jpg,2000.00
+Printer,TT006,images/printer.jpg,1100.00
+Playstation 4,TT008,images/ps4.jpg,2400.00
+Printer Cartridge,TT009,images/ink.jpg,1900.00
+Keyboard,TT010,images/keyboard.jpg,900.00
